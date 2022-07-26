@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/chaimyaham/intro-section-with-dropdown-navigation-main)
+- Live Site URL: [Live site URL](https://chaimyaham.github.io/intro-section-with-dropdown-navigation-main/)
 
 
 ### Built with
@@ -36,6 +36,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
 
 
 
